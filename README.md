@@ -25,3 +25,6 @@ untuk pengaturan panel ada pada baris 423 :
   padding: 0px; }
 
   nah, warna 100% transparan karena 0.00.
+
+  Oh iya, lalu bagaimana cara menerapkannya pada linux mint ? pertama ganti dulu tema di linux mint "Applications -> themes -> Desktop -> lalu pilih Mint-Y-Grey".
+  Setelah itu salin folder "MInt-Y-Grey" dari "(file system)/usr/share/themes/" ke "home/username anda/themes/ ...". Ok saya anggap saja kawan sudah clone atau mendownload file cinnamon.css tadi lalu salin dan ganti  ke yang directory home" /home/username anda/.themes/Mint-Y-Grey/cinnamon/ ...(salin di sini)"
