@@ -1,4 +1,3 @@
-kustommintygrey
 Cara sederhana mengubah tema di linux, dengan sedikit koding. Saya yakin tidak semua pengguna linux, khususnya linux mint adalah pemrogram atau mengerti koding.
 Saya edit beberapa baris saja untuk perubahan warna dan border.
 
